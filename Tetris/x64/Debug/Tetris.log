@@ -1,0 +1,12 @@
+﻿  Source.cpp
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Tetris\Tetris\Source.cpp(55,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Tetris\Tetris\Bitmap.h(323,25): warning C4018: '<': signed/unsigned mismatch
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Tetris\Tetris\Source.cpp(200): message : see reference to function template instantiation 'Bitmap<10,20> Bitmap<10,20>::PasteOrFilter<4,4>(Bitmap<4,4>,int,int,int,int) const' being compiled
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Tetris\Tetris\Source.cpp(200): message : see reference to function template instantiation 'Bitmap<10,20> Bitmap<10,20>::PasteOrFilter<4,4>(Bitmap<4,4>,int,int,int,int) const' being compiled
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Tetris\Tetris\Bitmap.h(324,26): warning C4018: '<': signed/unsigned mismatch
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Tetris\Tetris\Bitmap.h(290,25): warning C4018: '<': signed/unsigned mismatch
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Tetris\Tetris\Source.cpp(233): message : see reference to function template instantiation 'Bitmap<10,20> Bitmap<10,20>::Paste<10,20>(Bitmap<10,20>,int,int,int,int) const' being compiled
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Tetris\Tetris\Source.cpp(233): message : see reference to function template instantiation 'Bitmap<10,20> Bitmap<10,20>::Paste<10,20>(Bitmap<10,20>,int,int,int,int) const' being compiled
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Tetris\Tetris\Bitmap.h(291,26): warning C4018: '<': signed/unsigned mismatch
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Tetris\Tetris\Source.cpp(51): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Tetris.vcxproj -> E:\Χαραλαμπής\Άλλα\Coding\Projects\Tetris\x64\Debug\Tetris.exe
